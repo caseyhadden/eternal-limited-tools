@@ -7,6 +7,7 @@ import (
 	"io/ioutil"
 	"os"
 	"strconv"
+	"strings"
 )
 
 type DraftCard struct {
@@ -18,6 +19,7 @@ type EternalCard struct {
 	SetNumber     int     `json:"SetNumber"`
 	EternalId     int     `json:"EternalID"`
 	Name          string  `json:"Name"`
+	Influence     string  `json:"Influence"`
 	LimitedValue  float64 `json:"LimitedValue"`
 	Rarity        string
 	DeckBuildable bool
@@ -69,6 +71,8 @@ func main() {
 	for _, c := range cards {
 		if _, ok := data[c.Name]; ok {
 			c.LimitedValue = data[c.Name].Value
+			c.Influence = strings.Replace(c.Influence, "{", "", -1)
+			c.Influence = strings.Replace(c.Influence, "}", "", -1)
 			b = append(b, c)
 		} else if c.SetNumber > 0 && c.SetNumber < 1000 &&
 			c.Rarity != "Promo" && c.Rarity != "None" {
