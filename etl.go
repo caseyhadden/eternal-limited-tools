@@ -20,6 +20,7 @@ type EternalCard struct {
 	EternalId     int     `json:"EternalID"`
 	Name          string  `json:"Name"`
 	Influence     string  `json:"Influence"`
+	Type          string  `json:"Type"`
 	LimitedValue  float64 `json:"LimitedValue"`
 	Rarity        string
 	DeckBuildable bool
@@ -29,10 +30,18 @@ func main() {
 	// our running set of card data
 	data := make(map[string]DraftCard)
 
-	records := getData("data/Set5.5DraftTierSummary.csv")
+	records := getData("data/Set6DraftTierSummary.csv")
 	for _, r := range records {
 		v, _ := strconv.ParseFloat(r[1], 64)
 		data[r[0]] = DraftCard{r[0], v}
+	}
+
+	records = getData("data/Set5.5DraftTierSummary.csv")
+	for _, r := range records {
+		if _, ok := data[r[0]]; !ok {
+			v, _ := strconv.ParseFloat(r[1], 64)
+			data[r[0]] = DraftCard{r[0], v}
+		}
 	}
 
 	records = getData("data/Set5DraftTierSummary.csv")
