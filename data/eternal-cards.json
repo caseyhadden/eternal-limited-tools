@@ -17419,10 +17419,10 @@
     "EternalID": 275,
     "Name": "Vicious Highwayman",
     "CardText": "Charge, Warcry; Summon: Deal 1 damage to an enemy.; When an enemy unit dies, Vicious Highwayman gets Lifesteal and Quickdraw this turn.",
-    "Cost": 4,
+    "Cost": 5,
     "Influence": "{F}{F}{S}{S}",
-    "Attack": 4,
-    "Health": 2,
+    "Attack": 5,
+    "Health": 3,
     "Rarity": "Legendary",
     "Type": "Unit",
     "UnitType": [
@@ -19007,7 +19007,7 @@
     "Cost": 3,
     "Influence": "{T}",
     "Attack": 2,
-    "Health": 4,
+    "Health": 3,
     "Rarity": "Rare",
     "Type": "Unit",
     "UnitType": [
@@ -24852,8 +24852,8 @@
     "SetNumber": 5,
     "EternalID": 110,
     "Name": "Martyr's Chains",
-    "CardText": "At the end of your turn, double the  Strength/ Health of your units.;Empower: Kill an enemy unit.",
-    "Cost": 8,
+    "CardText": "At the end of your turn, double the  Strength/Health of your units.;Empower: Kill an enemy unit.",
+    "Cost": 9,
     "Influence": "{J}{J}{J}{J}",
     "Attack": 0,
     "Health": 0,
@@ -27415,6 +27415,20 @@
   },
   {
     "SetNumber": 6,
+    "Name": "Shingane Mark",
+    "CardText": "Overwhelm",
+    "Cost": 1,
+    "Influence": "{F}",
+    "Attack": 1,
+    "Health": 0,
+    "Rarity": "None",
+    "Type": "Weapon",
+    "ImageUrl": "https://cards.eternalwarcry.com/cards/full/Shingane_Mark.png",
+    "DetailsUrl": "https://eternalwarcry.com/cards/d/-XJw89--Z2g/shingane-mark",
+    "DeckBuildable": false
+  },
+  {
+    "SetNumber": 6,
     "Name": "Shardling",
     "CardText": "Shift 3",
     "Cost": 3,
@@ -27497,7 +27511,7 @@
     "SetNumber": 6,
     "Name": "Alarming Findings",
     "CardText": "For each of your relics, draw a card and play a 3/3 Sandcrawler with Overwhelm.",
-    "Cost": 8,
+    "Cost": 7,
     "Influence": "{T}{T}",
     "Attack": 0,
     "Health": 0,
@@ -27859,7 +27873,7 @@
     "Name": "Incendiary Slagmite",
     "CardText": "Onslaught: Secretly choose a card in the enemy player's Market. The next time they draw a card from their Market, transform the chosen card into a Firebomb.",
     "Cost": 2,
-    "Influence": "{F}{F}",
+    "Influence": "{F}",
     "Attack": 3,
     "Health": 1,
     "Rarity": "Rare",
@@ -28078,7 +28092,7 @@
     "EternalID": 27,
     "Name": "Tantrum",
     "CardText": "Deal 2 damage to an enemy.;Tantrum has Double Damage and Overwhelm if you have a Shifted unit.",
-    "Cost": 3,
+    "Cost": 2,
     "Influence": "{F}",
     "Attack": 0,
     "Health": 0,
@@ -28494,7 +28508,7 @@
     "SetNumber": 6,
     "EternalID": 52,
     "Name": "Adolescent Deathjaw",
-    "CardText": "Shift 4: You may put an exhausted enemy unit into its owner's hand.",
+    "CardText": "Shift 3: You may put an exhausted enemy unit into its owner's hand.",
     "Cost": 2,
     "Influence": "{T}",
     "Attack": 3,
@@ -28584,7 +28598,7 @@
     "SetNumber": 6,
     "EternalID": 57,
     "Name": "Glimpse the Possibilities",
-    "CardText": "Cards in your deck have Warp this turn.",
+    "CardText": "Each card in your deck gets Warp this turn.",
     "Cost": 2,
     "Influence": "{T}",
     "Attack": 0,
@@ -28678,7 +28692,7 @@
     "EternalID": 63,
     "Name": "Expedition Leader",
     "CardText": "When one of your units emerges, draw two cards.",
-    "Cost": 3,
+    "Cost": 2,
     "Influence": "{T}",
     "Attack": 1,
     "Health": 1,
@@ -28704,7 +28718,8 @@
     "Type": "Unit",
     "UnitType": [
       "Explorer",
-      "Dinosaur"
+      "Dinosaur",
+      "Hero"
     ],
     "ImageUrl": "https://cards.eternalwarcry.com/cards/full/Kimi,_Expedition_Guide.png",
     "DetailsUrl": "https://eternalwarcry.com/cards/d/6-64/kimi-expedition-guide",
@@ -28884,7 +28899,8 @@
     "Rarity": "Legendary",
     "Type": "Unit",
     "UnitType": [
-      "Explorer"
+      "Explorer",
+      "Hero"
     ],
     "ImageUrl": "https://cards.eternalwarcry.com/cards/full/Tocas,_Waystone_Harvester.png",
     "DetailsUrl": "https://eternalwarcry.com/cards/d/6-75/tocas-waystone-harvester",
@@ -29032,8 +29048,8 @@
     "CardText": "Ambush, Warp;When Xumucan kills a unit, play a 1/1 Explorer.",
     "Cost": 5,
     "Influence": "{T}{T}{T}{T}{T}",
-    "Attack": 6,
-    "Health": 6,
+    "Attack": 7,
+    "Health": 7,
     "Rarity": "Legendary",
     "Type": "Unit",
     "UnitType": [
@@ -29360,7 +29376,8 @@
     "Rarity": "Legendary",
     "Type": "Unit",
     "UnitType": [
-      "Soldier"
+      "Soldier",
+      "Hero"
     ],
     "ImageUrl": "https://cards.eternalwarcry.com/cards/full/Siraf,_Grand_Strategist.png",
     "DetailsUrl": "https://eternalwarcry.com/cards/d/6-103/siraf-grand-strategist",
@@ -29731,7 +29748,8 @@
     "Rarity": "Legendary",
     "Type": "Unit",
     "UnitType": [
-      "Valkyrie"
+      "Valkyrie",
+      "Hero"
     ],
     "ImageUrl": "https://cards.eternalwarcry.com/cards/full/Sediti,_the_Killing_Steel.png",
     "DetailsUrl": "https://eternalwarcry.com/cards/d/6-125/sediti-the-killing-steel",
@@ -29778,7 +29796,7 @@
     "EternalID": 128,
     "Name": "Svetya's Sanctum",
     "CardText": "When you play a spell, play an Emerald Incarnation with  Strength/ Health equal to its cost.",
-    "Cost": 5,
+    "Cost": 6,
     "Influence": "{J}{J}",
     "Attack": 0,
     "Health": 0,
@@ -29807,7 +29825,7 @@
     "SetNumber": 6,
     "EternalID": 130,
     "Name": "Withstand",
-    "CardText": "Give one of your units +4/+4 and Aegis.",
+    "CardText": "Give one of your units +4/+4 and Endurance.",
     "Cost": 5,
     "Influence": "{J}{J}",
     "Attack": 0,
@@ -29830,7 +29848,8 @@
     "Rarity": "Legendary",
     "Type": "Unit",
     "UnitType": [
-      "Mage"
+      "Mage",
+      "Hero"
     ],
     "ImageUrl": "https://cards.eternalwarcry.com/cards/full/Nikos,_the_Unifier.png",
     "DetailsUrl": "https://eternalwarcry.com/cards/d/6-131/nikos-the-unifier",
@@ -30279,7 +30298,7 @@
     "SetNumber": 6,
     "EternalID": 159,
     "Name": "Larai, the Appraiser",
-    "CardText": "The enemy player can't attack with relic weapons or activate relics.;Pay 3 and twist Larai to draw a relic from your deck with cost equal to her  Health.",
+    "CardText": "The enemy player can't attack with relic weapons or activate relics.;Pay 2 and twist Larai to draw a relic from your deck with cost equal to her  Health.",
     "Cost": 3,
     "Influence": "{P}",
     "Attack": 0,
@@ -30287,7 +30306,8 @@
     "Rarity": "Legendary",
     "Type": "Unit",
     "UnitType": [
-      "Explorer"
+      "Explorer",
+      "Hero"
     ],
     "ImageUrl": "https://cards.eternalwarcry.com/cards/full/Larai,_the_Appraiser.png",
     "DetailsUrl": "https://eternalwarcry.com/cards/d/6-159/larai-the-appraiser",
@@ -30385,7 +30405,7 @@
     "SetNumber": 6,
     "EternalID": 165,
     "Name": "Bam, Sneakeepeekee",
-    "CardText": "When Bam attacks, play a 1/1 Yeti Spy.;Shift 4: Transform a card of your choice in the enemy Market into a 1/1 Yeti Spy.",
+    "CardText": "When Bam attacks, play a 1/1 Yeti Spy.;Shift 3: Transform a card of your choice in the enemy Market into a 1/1 Yeti Spy.",
     "Cost": 4,
     "Influence": "{P}{P}",
     "Attack": 3,
@@ -30422,7 +30442,7 @@
     "CardText": "Aegis;Pay 3 and twist Elder Meditant to draw a card.",
     "Cost": 4,
     "Influence": "{P}",
-    "Attack": 1,
+    "Attack": 2,
     "Health": 2,
     "Rarity": "Common",
     "Type": "Unit",
@@ -30474,7 +30494,7 @@
     "CardText": "When you scout, Murderous Flock gets Flying this turn.",
     "Cost": 4,
     "Influence": "{P}",
-    "Attack": 3,
+    "Attack": 4,
     "Health": 3,
     "Rarity": "Common",
     "Type": "Unit",
@@ -30560,7 +30580,8 @@
     "Rarity": "Legendary",
     "Type": "Unit",
     "UnitType": [
-      "Giant"
+      "Giant",
+      "Hero"
     ],
     "ImageUrl": "https://cards.eternalwarcry.com/cards/full/Rost,_the_Walking_Glacier.png",
     "DetailsUrl": "https://eternalwarcry.com/cards/d/6-175/rost-the-walking-glacier",
@@ -30615,7 +30636,8 @@
     "Type": "Unit",
     "UnitType": [
       "Mage",
-      "Explorer"
+      "Explorer",
+      "Hero"
     ],
     "ImageUrl": "https://cards.eternalwarcry.com/cards/full/Tamarys,_Earthshaker.png",
     "DetailsUrl": "https://eternalwarcry.com/cards/d/6-178/tamarys-earthshaker",
@@ -30867,7 +30889,8 @@
     "Rarity": "Rare",
     "Type": "Unit",
     "UnitType": [
-      "Rogue"
+      "Rogue",
+      "Hero"
     ],
     "ImageUrl": "https://cards.eternalwarcry.com/cards/full/Olly,_Maniacal_Graverobber.png",
     "DetailsUrl": "https://eternalwarcry.com/cards/d/6-193/olly-maniacal-graverobber",
@@ -30929,7 +30952,7 @@
     "Cost": 3,
     "Influence": "{S}",
     "Attack": 3,
-    "Health": 2,
+    "Health": 3,
     "Rarity": "Common",
     "Type": "Unit",
     "UnitType": [
@@ -31022,7 +31045,8 @@
     "Type": "Unit",
     "UnitType": [
       "Shaman",
-      "Elf"
+      "Elf",
+      "Hero"
     ],
     "ImageUrl": "https://cards.eternalwarcry.com/cards/full/Livia,_Hexweaver.png",
     "DetailsUrl": "https://eternalwarcry.com/cards/d/6-202/livia-hexweaver",
@@ -31265,7 +31289,7 @@
     "SetNumber": 6,
     "EternalID": 217,
     "Name": "Tasbu, the Forbidden",
-    "CardText": "Deadly, Warp;When one of your other units dies, draw a card and take 1 damage.",
+    "CardText": "Deadly, Warp;When one of your units dies, draw a card and take 1 damage.",
     "Cost": 5,
     "Influence": "{S}{S}{S}{S}{S}",
     "Attack": 6,
@@ -31273,7 +31297,8 @@
     "Rarity": "Legendary",
     "Type": "Unit",
     "UnitType": [
-      "Radiant"
+      "Radiant",
+      "Hero"
     ],
     "ImageUrl": "https://cards.eternalwarcry.com/cards/full/Tasbu,_the_Forbidden.png",
     "DetailsUrl": "https://eternalwarcry.com/cards/d/6-217/tasbu-the-forbidden",
@@ -31619,6 +31644,25 @@
     "Type": "Spell",
     "ImageUrl": "https://cards.eternalwarcry.com/cards/full/Seek_Answers.png",
     "DetailsUrl": "https://eternalwarcry.com/cards/d/6-238/seek-answers",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 316,
+    "Name": "Jishu, the Burning Brush",
+    "CardText": "When you play another Oni, play a +1 Strength weapon with Overwhelm on it.; Onslaught: You may move a weapon of your choice to the top of your deck.",
+    "Cost": 2,
+    "Influence": "{F}",
+    "Attack": 2,
+    "Health": 2,
+    "Rarity": "Promo",
+    "Type": "Unit",
+    "UnitType": [
+      "Oni",
+      "Hero"
+    ],
+    "ImageUrl": "https://cards.eternalwarcry.com/cards/full/Jishu,_the_Burning_Brush.png",
+    "DetailsUrl": "https://eternalwarcry.com/cards/d/6-316/jishu-the-burning-brush",
     "DeckBuildable": true
   },
   {
@@ -32391,7 +32435,7 @@
     "SetNumber": 1003,
     "EternalID": 1,
     "Name": "Bore",
-    "CardText": "Kill an enemy attachment.; Create and draw a copy of Bore, then discard it at the end of the turn.",
+    "CardText": "Kill an enemy attachment.; Create and draw a copy of Bore with cost increased by 1, then discard it at the end of the turn.",
     "Cost": 1,
     "Influence": "{F}",
     "Attack": 0,
@@ -33625,7 +33669,7 @@
     "SetNumber": 1005,
     "EternalID": 21,
     "Name": "Korovyat Palace",
-    "CardText": "Your units with 4 Strength or more have Endurance.;Svetya's Agenda: Wisdom of the Elders, Withstand, Sack the City.",
+    "CardText": "When you play a unit with 4 Strength or more, it gets Aegis.;Svetya's Agenda: Wisdom of the Elders, Withstand, Sack the City.",
     "Cost": 6,
     "Influence": "{J}{J}{P}{P}",
     "Attack": 0,

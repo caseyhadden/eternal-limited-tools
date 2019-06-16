@@ -1,233 +1,637 @@
-Raging Firemaw,5
-Eclipse Dragon,4
-Heretic's Cannon,4
-Waystone Elemental,3
-Kaleb's Persuader,3
-Coverfire Marksman,3
-Nimble Conscript,3
-"Clodagh, Loyal Advisor",3
-Censari Dervish,3
-Combustion Brawler,3
-Quake Titan,3
-Outlaw Ringleader,3
-Blurreechaser,3
-Impatient Pyromage,3
-Char,3
-Tantrum,3
-Streets Aflame,3
-Mining Team,2
-Stronghold Vandal,2
-Clan Barracks,2
-Ruins Guide,2
-Oni Patrol,2
-Furious Compulsion,2
-Horde Duelist,2
-Granite Coin,2
-Daring Maneuver,2
-"Ghodan, Undefeated",2
-Stonehewer,2
-Needlespitter,2
-Zuberi's Longbow,2
-Aspect of Destruction,2
-Call to Arms,1
-Sizzleback Salamander,1
-Incendiary Slagmite,1
-Rallying Sergeant,1
-Blademaster Daimyo,1
-Twinflame,1
-Outdraw,1
-"Brenn, Arch-Magister",1
-Brenn's Scrying,1
-Guns Blazing,1
-Gold Mine,1
-Cinder Sprite,0
-Slag,0
-Kaleb's Sanctum,0
-"Tocas, Waystone Harvester",5
-Blurred Stygimoloch,4
-"Kimi, Expedition Guide",3
-Ancient Clocktower,3
-Bulbous Humbug,3
-Corrupted Behemoth,3
-Glimpse the Possibilities,3
-"Ghar, Master Sandmage",3
-Cryptic Master,3
-Venomous Mount,3
-Auralian Infestation,3
-Devotee of the Sands,3
-Tremorshocker,3
-Novice Entomancer,3
-Lumen Colossus,3
-Quicksilver Ooze,3
+﻿Card,Average
+Adolescent Deathjaw,3.1
+Aggressive Ursine,3.4
+Amber Coin,2.4
+Amethyst Coin,0
+Ancient Clocktower,0.5
+Angry Prophet,2.5
+Arcanum Elite,2.8
+Aspect of Destruction,1.9
+Auralian Infestation,3.5
+Auric Lookout,2.7
+Auric Reclaimer,2.7
+Avalanche Yeti,3.4
+"Bam, Sneakeepeekee",3.5
+Bandit's Flail,2.2
+Belligerent Yeti,2.4
+Blademaster Daimyo,1.6
+Blight Pass Smuggler,3.5
 Blink,2
-Mute,2
-"Xumucan, the Surveyor",2
-Adolescent Deathjaw,2
-Arcanum Elite,2
-Displaced Oryctodon,2
-Horn of Plenty,2
-Phase Out,2
-Swirl the Sands,2
-Amber Coin,2
-Temporal Adept,2
-Trickster Mage,2
-Burdenbearer Wisp,2
-Sauropod Crasher,2
-Omnivorous Vorlunk,2
-Enhanced Excavator,2
-Wurm Bait,2
-Stillweave Shroud,1
-Submerged Titan,1
-Expedition Leader,1
-Locust Hatcher,1
-Search Party,1
-Potion of Alacrity,1
-Patience,1
-Sudden Stampede,1
-Refreshing Waters,0
-Talir's Sanctum,0
+Bloodnurse,1.6
+Blurred Stygimoloch,4
+Blurreechaser,3.5
+Boot Knife,0.1
+"Brenn, Arch-Magister",0.7
+Brenn's Scrying,0.6
+Bulbous Humbug,3.1
+Burdenbearer Wisp,2.5
+Cabal Repeater,3.3
+Call to Arms,0.1
+Camp Surveyor,3.4
+Cen Wastes Smuggler,3.4
+Censari Dervish,3.5
+Char,3.1
+Cinder Sprite,0.1
+Clan Barracks,2.6
+"Clodagh, Loyal Advisor",3.5
+Cloudsnake Matriarch,4
+Cobalt Coin,1.3
+Combrei Insignia,2.3
+Combustion Brawler,3.5
+Copperhall Chancellor,0.8
+Corrupted Behemoth,3.5
+Coverfire Marksman,3.3
+Crashing Avalanche,1.2
+Crooked Alleyguide,3.5
+Cryptic Master,3.3
+Daring Maneuver,2.8
+Darkweave Enchantress,3.1
+Death from Above,0.9
 Death Pit,0
-Perilous Research,0
-Xulta Loyalist,5
-"Siraf, Grand Strategist",5
-Steel Legion,4
-Withstand,4
-Minotaur Platemaker,4
-"Kira, the Prodigy",3
-Relentless Deadshot,3
-Retribution,3
-Righteous Intent,3
-"Sediti, the Killing Steel",3
-"Nikos, the Unifier",3
-Tauride Test Pilot,3
-Pioneering Aviator,3
-Valkyrie Accuser,3
-Kosul Bladebarrier,3
-Kosul Curator,3
-Svetya's Sanctum,3
-Steadfast Paladin,3
-Svetya's Faithful,3
-Shieldcrafter,3
-Flash Grenade,3
-Emerald Coin,3
-Roosting Warhawk,3
-Unseen Ghostblade,3
-War Wagon,2
-Tinker Ennervator,2
-Auric Lookout,2
-High Alert,2
-Touch of Grace,2
-Twin Sai,2
-Reinforcements,2
-Kemmo's Blueprints,2
-Pristine Light,2
-Spellstrike Sorceress,2
-Copperhall Chancellor,2
-Headhunter,2
+Death Ripple,3.5
+Devotee of the Sands,3.5
+Dinomancy Enthusiast,0.2
+Direwood Lurker,1.8
+Displaced Oryctodon,3
+Diving Pteriax,2.7
+Dizo's Racket,0.1
+East Annex Smuggler,3.4
+Eclipse Dragon,4.5
+Eilyn's Sanctum,2.9
+Elder Meditant,0.9
 Embargo Officer,2
-Isolate,1
-Secret Weapon,1
-Warfront Missionary,1
-Reweave,1
-Reclaim,1
-Heist,1
-Inner Might,1
-Silver Shortsword,1
-Lethrai Soothsayer,5
+Emerald Coin,2.3
+Enhanced Excavator,2.3
+Evenhanded Golem,1.6
+Eviscerate,3.3
+Expedition Leader,1.9
+Fallen Militiaman,3.1
+Feln Insignia,2.3
+Fend Off,2.9
+Ferocity of Bear,1.5
+Flash Grenade,1.8
+Fledgling Owlet,0.9
+Fragility,0.3
+Frost Elemental,3.5
+Furious Compulsion,2
+Furnish,2.9
+"Ghar, Master Sandmage",3
+"Ghodan, Undefeated",0.4
+Glimpse the Possibilities,0.5
+Gold Mine,0.1
+Good Idea at the Time,2.9
+Gorgon Cutthroat,0.5
+Granite Coin,2
+Guns Blazing,0.3
+Gustrider,1.7
+Headhunter,2.9
+Heartstopper,4
+Heist,1.1
+Heretic's Cannon,4
+High Alert,2.6
+Hold Under,0.8
+Hooru Insignia,2.3
+Horde Duelist,2
+Horn of Plenty,3.5
+Hostile Takeover,3.8
+Hunting Anoura,2.9
+Ice Bolt,3.6
+Illicit Armament,0.1
+Impatient Pyromage,2.2
+Incendiary Slagmite,2.5
+Inevitable Horror,4.5
 Innate Conviction,4
-Lightning Sprite,4
-Peaktop Trekker,4
-"Tamarys, Earthshaker",3
-Cloudsnake Matriarch,3
-Keen Saddleback,3
-Frost Elemental,3
-Ice Bolt,3
-"Bam, Sneakeepeekee",3
-Avalanche Yeti,3
-Aggressive Ursine,3
-Cobalt Coin,3
-Eilyn's Sanctum,3
-Yeti Instigator,2
-"Rost, the Walking Glacier",2
-Belligerent Yeti,2
-Hold Under,2
-Crashing Avalanche,2
-Camp Surveyor,2
-Thudrock's Masterwork,2
-Fend Off,2
-Mass Polymorph,2
-Gustrider,2
-Ferocity of Bear,2
-Dinomancy Enthusiast,1
-Murderous Flock,1
-Elder Meditant,1
-Death from Above,1
-"Larai, the Appraiser",1
-Royal Decree,1
-Furnish,1
-Terror on the Mountain,1
-Snowmass Jotun,1
-Diving Pteriax,1
-Fragility,1
-Good Idea at the Time,1
-Fledgling Owlet,1
-Spy Glass,1
-Warning Jolt,1
-Re-read,1
-Yeti Bully,1
-Swift Refusal,1
+Inner Might,0.9
+Isolate,2.1
+Kaleb's Persuader,4.1
+Kaleb's Sanctum,0
+Keen Saddleback,4
+Kemmo's Blueprints,0.4
+"Kimi, Expedition Guide",4
+"Kira, the Prodigy",2.9
+Kosul Bladebarrier,2.4
+Kosul Curator,2.1
+"Larai, the Appraiser",3.4
+Lethrai Direbeast,3.6
+Lethrai Soothsayer,4.5
+Lightning Sprite,4.1
+"Livia, Hexweaver",3.5
+Locust Hatcher,4
+Lumen Colossus,2.4
+Malediction,3.1
+Mass Polymorph,1.9
+Mining Team,1.9
+Minotaur Platemaker,4.9
+Muck Crawler,0.8
+Murderous Flock,3
+Mute,1
+Needlespitter,1.1
+"Nikos, the Unifier",3.9
+Nimble Conscript,3.1
+Novice Entomancer,3.5
+Nullblade,2.3
+"Olly, Maniacal Graverobber",3.6
+Omnivorous Vorlunk,2
+Oni Patrol,3
+Outdraw,0.6
+Outlaw Ringleader,3.5
+Patience,0
+Peaktop Trekker,3.5
+Pearl Abbey Smuggler,3.4
+Perilous Research,0.3
+Phase Out,0.6
+Pioneering Aviator,3.3
+Potion of Alacrity,0.1
+Praxis Insignia,2.3
+Pristine Light,3.9
+Quake Titan,1.9
+Quicksilver Ooze,2.9
+Raging Firemaw,4.5
+Rallying Sergeant,2.5
+Razorquill,3.3
+Re-read,0.1
 Read the Runes,0
-Vargo's Pelt,0
-"Vishni, Lethrai Highblood",4
-Hostile Takeover,4
-Malediction,3
-Heartstopper,3
-Death Ripple,3
-Inevitable Horror,3
+Reclaim,1.3
+Refreshing Waters,0.1
+Reinforcements,0
+Relentless Deadshot,3.5
+Remembrance,0.5
+Retribution,3.5
+Reweave,0.4
+Righteous Intent,3.3
+Rime Conclave Smuggler,3.4
+Roosting Warhawk,3.1
+"Rost, the Walking Glacier",0.4
+Royal Decree,0.1
+Ruins Guide,2
+Sauropod Crasher,2.2
+Scarecrow,3.6
+Seal of Devotion,0
+Search Party,2
+Secret Weapon,0.8
+"Sediti, the Killing Steel",1.4
+Seek Answers,1.9
+Shieldcrafter,3.4
+Silver Shortsword,0.9
+Sinister Design,1.7
+"Siraf, Grand Strategist",4.3
+Sizzleback Salamander,1.6
+Slag,0
+Snowmass Jotun,2.5
+Spellstrike Sorceress,2.2
+Spiteful Strike,3.4
+Spy Glass,3.1
+Stained Honor,1.7
+Steadfast Paladin,2.9
+Steel Legion,4
+Stillweave Shroud,3.4
+Stonehewer,2.5
+Stonescar Insignia,2.3
+Stonescar Outfitter,2.9
 Street Urchin,3
-"Olly, Maniacal Graverobber",3
-Umbren Voidbringer,3
-Lethrai Direbeast,3
-Scarecrow,3
-Stained Honor,3
-Spiteful Strike,3
-Hunting Anoura,3
-Vara's Sanctum,3
-Nullblade,3
-Eviscerate,3
-Wretched Talon,3
-"Livia, Hexweaver",3
-Razorquill,2
-Cabal Repeater,2
-Withering Touch,2
-Crooked Alleyguide,2
-Stonescar Outfitter,2
-Fallen Militiaman,2
-Bandit's Flail,2
-Auric Reclaimer,2
-Bloodnurse,2
-Angry Prophet,2
-"Tasbu, the Forbidden",1
-Direwood Lurker,1
-Darkweave Enchantress,1
-Winnow,1
-Unchecked Aggression,1
-Boot Knife,1
-Muck Crawler,1
-Gorgon Cutthroat,1
-Illicit Armament,1
-Amethyst Coin,1
-Dizo's Racket,0
-Sinister Design,0
-Remembrance,0
-Vicious Rumors,0
-Vizier's Tablet,0
+Streets Aflame,3.5
+Stronghold Vandal,3
+Submerged Titan,1.6
+Sudden Stampede,0.1
+Svetya's Faithful,3
+Svetya's Sanctum,1.2
+Swift Refusal,0
+Swirl the Sands,1.2
+Talir's Sanctum,0
+"Tamarys, Earthshaker",4.5
+Tantrum,3.1
+"Tasbu, the Forbidden",0.4
+Tauride Test Pilot,3
+Temporal Adept,1.7
+Terror on the Mountain,2.4
+Thudrock's Masterwork,3.5
+Tinker Ennervator,3
+"Tocas, Waystone Harvester",3.9
+Touch of Grace,2
+Tremorshocker,3
+Trickster Mage,1.1
+Twin Sai,1.6
+Twinflame,0.4
+Umbren Voidbringer,3.6
+Unchecked Aggression,0.1
+Unseen Ghostblade,3.1
 Unspeakable Torment,0
-Pearl Abbey Smuggler,2
-Rime Conclave Smuggler,2
-East Annex Smuggler,1
-Cen Wastes Smuggler,1
-Blight Pass Smuggler,1
-Seek Answers,2
-Evenhanded Golem,2
-Seal of Devotion,1
+Valkyrie Accuser,3.5
+Vara's Sanctum,2.1
+Vargo's Pelt,0
+Venomous Mount,3.5
+Vicious Rumors,0
+"Vishni, Lethrai Highblood",4.4
+Vizier's Tablet,0
+War Wagon,3.5
+Warfront Missionary,1.1
+Warning Jolt,0.4
+Waystone Elemental,3.7
+Winnow,1.1
+Withering Touch,3.4
+Withstand,4.4
+Wretched Talon,3.8
+Wurm Bait,0.5
+Xulta Loyalist,4.6
+"Xumucan, the Surveyor",0.5
+Yeti Bully,0.1
+Yeti Instigator,2.5
+Zuberi's Longbow,2.9
+Abduct,0.4
+Accelerated Impact,0.5
+Advance Scout,2.7
+Aerial Ace,1.3
+Aerial Battle,0.6
+Afterimage,0.5
+Aid of the Hooru,0
+"Alessi, Combrei Archmage",2.5
+Amaran Stinger,3.3
+"Amilli, Cloudmarshal",4
+Ancient Excavator,2.6
+Ancient Lore,1.5
+Ancient of the Ice Caves,2.7
+Ancient Terrazon,3.2
+Ankle Cutter,2.4
+Araktodon,0.8
+Argenport Instigator,3.5
+Argenport Soldier,2.7
+Armorsmith,0.8
+Ashen Snakepit,0.1
+Ask for Directions,0.5
+Astromancer's Compass,0.6
+Auralian Cargo,2.4
+Auralian Merchant,3.6
+Auric Captain,4
+Auric Runehammer,4
+Auric Weaponsmith,2.2
+Avirax Familiar,2.8
+Awakened Sentinel,2.3
+"Ayan, the Abductor",4
+Azurite Prixis,0
+Backlash,0.1
+Backpacker's Machete,3
+Bad News,0.1
+Bandit Queen,3.9
+Beastcaller's Amulet,4
+Betray the Cause,0.4
+Big Brother,3.1
+Bladekin Apprentice,3.5
+Blinkwolf,2.3
+Blood Quill,0.6
+Boltcrafter Shaman,1
+Brightmace Paladin,3
+Bronze Cuirass,2
+Cabal Countess,4
+Cabal Cutthroat,2.7
+Cabal Scavenger,0.4
+Cabal Standard,3
+Calderan Gunsmith,1.7
+Camp Physician,1
+Celestial Omen,0.2
+Censari Brigand,1.3
+Ceremonial Mask,3.5
+Champion of Chaos,3.8
+Champion of Order,0
+Channel the Tempest,0.4
+"Cirso, the Great Glutton",4.5
+Cirso's Meddling,0.3
+Citywide Ban,0
+Clan Standard,3.5
+Clan Wallbreaker,1.9
+Cloud of Ash,1.7
+Cloudsnake Hatchling,0.5
+Cloudsnake Saddle,0.9
+Consuming Flames,1.5
+Copper Conduit,2.9
+Copperhall Blessing,0.8
+Copperhall Recruit,2.2
+Crest of Chaos,3.3
+Crest of Cunning,3.3
+Crest of Fury,3.3
+Crest of Glory,3.3
+Crest of Impulse,3.3
+Crest of Mystery,3.3
+Crest of Order,3.3
+Crest of Progress,3.3
+Crest of Vengeance,3.3
+Crest of Wisdom,3.3
+Crownwatch Captain,2.8
+Crownwatch Standard,3.7
+Crownwatch Traitor,4
+Cryptic Etchings,0.8
+Crystal Dirk,1.1
+Crystallize,4.4
+Curator's Spear,1.9
+Daring Pioneer,2.1
+Dark Return,3.5
+Dashing Rapscallion,3.9
+Dawnwalker,1.4
+Daze,0.6
+Decimate,0
+Defiance,3.5
+Deft Strike,1.9
+Deranged Dinomancer,4
+Detain,1.8
+Devastating Setback,1.5
+Diplomatic Seal,2.1
+Direfang Spider,2.9
+Direwood Rampager,2
+Dispel,3
+Disrupt,0.5
+Dissociate,0.1
+Dizo's Office,4.5
+Downfall,1.1
+Dramatist's Mask,0.1
+Dreamsnatcher,2.9
+Dumping Ground,3.3
+Dustblind,0.3
+Eager Owlet,1.3
+Ebon Dune Smuggler,3.4
+"Eilyn, the Rising Storm",2.9
+Eilyn's Frostrider,4.5
+Elder Astrologer,4.7
+Elvish Swindler,0.4
+Encouragement,1
+End of Days,0
+End of Hostilities,3.9
+End of the Barrel,0
+End of the Line,4.2
+End of the Story,4.3
+Envelop,1.3
+Eternity Core,1.5
+Excavate,0.2
+Excavation Assistant,1.2
+Extract,3.5
+Factory Quota,0
+Fall Short,2.9
+Family Charter,2.3
+Fangs in the Dark,0.3
+Farplace Finder,0.6
+Fear Made Flesh,4
+Fearless Yeti,3.4
+Feed the Flames,1.3
+Feln Bloodcaster,3.5
+Feln Cauldron,0
+Flame Blast,3.3
+Flamebelcher,0.9
+Flamebrewer,3.8
+Flamestoker,3.4
+Flash Freeze,2.8
+Flickerling,2.1
+Freewing Glider,3.5
+Gathering Lights,2.3
+"Geomar, the Steel Tempest",4.3
+Ghostform,0.8
+Golem Press,3.5
+Governor Sahin,2.1
+Grandfather's Axe,1.4
+Granite Ring,1
+Grasping at Shadows,0.4
+Great Valley Smuggler,3.4
+Great-Kiln Titan,2.4
+Grenadin Bellower,2.8
+Grit,0.4
+Gun Down,3.2
+Hall of Lost Kings,0.4
+Hammer of Authority,3.5
+Headsman's Axe,0.8
+Healer's Cloak,3.4
+Heart of the Vault,3.4
+Heirloom Blade,0.8
+Hidden Road Smuggler,3.4
+Hidden Shiv,0.3
+Hipshot,1.9
+Hooru Envoy,0.8
+Horned Vorlunk,2.3
+Horngrinder,2.1
+Horsesnatcher Bat,3.5
+Howling Peak,4.5
+Howling Peak Smuggler,3.4
+Hunting Pteriax,4
+Iceberg Frontrunner,0
+Icebow,1.8
+Icebreaker,1
+Idol of Destran,0.6
+Ijin's Workshop,4
+Impending Doom,4.5
+Improvised Club,0.5
+Improvised Rubbler,1.8
+Infernal Tyrant,3.5
+Infernus,0
+Infinite Hourglass,0.5
+Initiation Bell,0.4
+Inspire Obedience,1.3
+Invoke the Waystones,0
+Iron Hook,1
+Ixtun Cargo,2.4
+Ixtun Merchant,3.5
+Jarrall Iceheart,2.7
+"Jekk, Hunted Fugitive",4.4
+Jennev Cargo,2.4
+Jennev Merchant,3.3
+Jotun Feast-Caller,3
+"Kenna, Shaman of the Scale",4
+Kennelmaster,0.4
+Kerendon Cargo,2.4
+Kerendon Merchant,3.5
+Kosul Battlemage,2.8
+Kosul Diplomat,1
+"Kothon, the Far-Watcher",4.5
+Last Stand at the Gate,2.4
+Learned Herbalist,3
+Lida's Apprentice,2.5
+Lifedrinker,1.4
+Light 'em Up,0.1
+Light the Fuse,0.2
+Lightning Strike,3.3
+Lingering Influence,1.3
+Lock Horns,0.9
+Long Live the Queen,0
+Lumbering Gruan,1.1
+Lurking Sanguar,2.4
+Manufacture,1.8
+Marionette Cross,2
+"Marisen, the Eldest",3
+Martyr's Chains,0.7
+Meditation,0.5
+Memory Dredger,4.5
+Mithril Mace,1.8
+Mob Rule,2.5
+Molten Fist,3.8
+Moment of Creation,0.5
+Momentum Builder,4
+Moonstone Vanguard,4.5
+Nametaker,0.1
+Oasis Seeker,3
+Oblivion Spike,2.2
+On the Hunt,1.2
+Oni Cavediver,2.4
+Outlands Brute,2.7
+Overheat,0.8
+Pack Hunt,0.5
+Parapet Sentry,4
+Permafrost,4
+Piercing Shot,2.5
+Pillar of Dreams,0.3
+Pit Fighter,2.3
+Pit of Lenekta,0.5
+Pitfall Trap,1.8
+Plated Demolisher,3.2
+Plated Goliath,3.5
+Porcelain Mask,0.3
+Pouncing Drake,4.2
+Pummel,2.3
+Pyre Adept,2.4
+Quicksilver Mirror,1.3
+Rallying Banner,1.4
+Rampart Arbalest,2.3
+Rat Cage,0
+Reality Shift,0.3
+Reality Warden,3.9
+Rebel Sharpshooter,3
+Recombobulate,2.5
+Recon Tower,1.3
+Red Canyon Smuggler,3.5
+Reforge,0.7
+Refresh,3.3
+Regent's Tomb,3.8
+Resolute Paladin,2
+Resurface,0.1
+"Reyna, the Unwavering",2.6
+Rhinarc Huntpack,3.5
+"Rika, Desert Navigator",3.3
+Rilgon's Disciple,3.4
+Rimescale Draconus,4.5
+Rise to the Challenge,1.9
+Rolant's Honor Guard,4.5
+Rolant's Memorial,1.2
+Ruby Catalyst,2.5
+Ruin,0.1
+Rusty Grenamotive,3.3
+Sack the City,0.1
+Sadistic Glee,1.7
+Sandstorm Scarf,1.1
+Sandstorm Titan,4.5
+Savage Denial,0
+Savagery,0.8
+Savior of the Meek,0.5
+Scale Seeker,4.3
+Scaly Gruan,2.5
+Scare,0.5
+Scavenging Vulture,1.8
+Scheme,1
+Scorpion Wasp,3.5
+Scourge of Frosthome,0
+Scouting Party,2.6
+Seat of Chaos,2.5
+Seat of Cunning,2.5
+Seat of Fury,2.5
+Seat of Glory,2.5
+Seat of Impulse,2.5
+Seat of Mystery,2.5
+Seat of Order,2.5
+Seat of Progress,2.5
+Seat of Vengeance,2.5
+Seat of Wisdom,2.5
+Seek Power,3
+Sewer Sludge,1
+Shadowlands Tyrant,3.8
+Shaluuk Captain,4
+Shapeshifter's Mask,4
+Shard of the Spire,1
+Sharpened Reflex,2.9
+Shieldsmith,1.8
+Shingane Captain,3.8
+Shugo Standard,3.5
+Siege Breaker,4
+Silverwing Familiar,1.5
+Silverwing Smith,2.7
+"Sindok, Rage Incarnate",3.4
+Siphon Vitality,4.3
+Skycrag Wyvarch,4
+Slow,0.3
+Snapping Brushstalker,1
+Snowcrush Animist,3.4
+Snowcrust Yeti,2.2
+Snowfort,0.9
+Soaring Guard,1.8
+Solitude,0
+Sorrow's Shroud,0.8
+Spiked Helm,0.5
+Spire Spellsword,0.8
+Spirit of Resistance,0
+Spitfire,0
+Staff of the Arch-Magister,0.1
+Starsteel Daisho,3.3
+Steadfast Deputy,0.3
+Steelbound Dragon,3.8
+Steward of Prophecy,3.5
+Stinging Wind,1.4
+Stonepowder Heretic,1.3
+Storm Spiral,2
+Storm Talisman,0.3
+Stormcaller,2.6
+Stormtamer Operative,2.4
+Stronghold's Visage,2.3
+Substitute,0.5
+Suffocate,3.5
+Sunken Tower,1.8
+Sword of the Sky King,2.1
+"Talir, Unbound",1.7
+Tax Collector,2.6
+Temple Captain,3
+Temple Standard,1.6
+The End is Near,0.8
+The Great Parliament,4.5
+The Last Word,0
+The Praxis Arcanum,4
+The Witching Hour,0
+Throne Warden,3.5
+"Thudrock, Arctic Artisan",3.5
+Time Flies,0.5
+Tinker,1
+Tinker Apprentice,0.7
+Tinker Overseer,3.5
+Tomb Protector,3.4
+"Torgov, Icecap Trader",4
+Torgov's Trading Post,3.8
+Torrent of Spiders,1.8
+Torrential Downpour,1.8
+Tower Shield,2.5
+Trailblaze,1.3
+Training Ground,3
+Transmogrifier,0
+Treasury Gate,0.5
+Tundra Explorer,3.2
+Umbren Deathwatcher,1.5
+Unbreakable Alliance,0.2
+Unfinished Business,0
+Unlock Potential,1.4
+Unraveling Fanatic,2.8
+"Vadius, Clan Father",4
+Valkyrie Bodyguard,2.9
+Valkyrie Enforcer,4.5
+Valkyrie Militant,2
+Vault of the Praxis,0.5
+Venomfang Dagger,0.8
+Venomspine Hydra,2.5
+Viper's Bite,0.5
+"Voprex, the Great Ruin",3.4
+Voracious Fosora,2
+Watchful Amanera,3
+Waystone Infuser,4.5
+Whetstone,0
+Whispering Wind,3.9
+Whispers in the Void,0.5
+Wild Cloudsnake,1.4
+Winchest Cargo,2.4
+Winchest Merchant,3.5
+Wingbrewer,4
+Workshop Forge,0
+Worldbearer Behemoth,3.8
+Worn Shield,1.6
+Wurmstone,3
+Xenan Obelisk,4.5
+Xenan Temple,4
+Xo of the Endless Hoard,3.3
+Yeti Sage,2.3
