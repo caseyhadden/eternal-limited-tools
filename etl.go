@@ -30,10 +30,18 @@ func main() {
 	// our running set of card data
 	data := make(map[string]DraftCard)
 
-	records := getData("data/Set7DraftTierSummary.csv")
+	records := getData("data/Set8DraftTierSummary.csv")
 	for _, r := range records {
 		v, _ := strconv.ParseFloat(r[1], 64)
 		data[r[0]] = DraftCard{r[0], v}
+	}
+
+	records = getData("data/Set7DraftTierSummary.csv")
+	for _, r := range records {
+		if _, ok := data[r[0]]; !ok {
+			v, _ := strconv.ParseFloat(r[1], 64)
+			data[r[0]] = DraftCard{r[0], v}
+		}
 	}
 
 	records = getData("data/Set6DraftTierSummary.csv")
