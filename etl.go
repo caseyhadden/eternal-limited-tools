@@ -26,69 +26,30 @@ type EternalCard struct {
 	DeckBuildable bool
 }
 
+var (
+	files = []string{
+		"data/Set8DraftTierSummary.csv",
+		"data/Set7DraftTierSummary.csv",
+		"data/Set6DraftTierSummary.csv",
+		"data/Set5.5DraftTierSummary.csv",
+		"data/Set5DraftTierSummary.csv",
+		"data/Set4DraftTierSummary.csv",
+		"data/Set3DraftTierSummary.csv",
+		"data/InfluenceGivers.csv",
+	}
+)
+
 func main() {
 	// our running set of card data
 	data := make(map[string]DraftCard)
 
-	records := getData("data/Set8DraftTierSummary.csv")
-	for _, r := range records {
-		v, _ := strconv.ParseFloat(r[1], 64)
-		data[r[0]] = DraftCard{r[0], v}
-	}
-
-	records = getData("data/Set7DraftTierSummary.csv")
-	for _, r := range records {
-		if _, ok := data[r[0]]; !ok {
-			v, _ := strconv.ParseFloat(r[1], 64)
-			data[r[0]] = DraftCard{r[0], v}
-		}
-	}
-
-	records = getData("data/Set6DraftTierSummary.csv")
-	for _, r := range records {
-		if _, ok := data[r[0]]; !ok {
-			v, _ := strconv.ParseFloat(r[1], 64)
-			data[r[0]] = DraftCard{r[0], v}
-		}
-	}
-
-	records = getData("data/Set5.5DraftTierSummary.csv")
-	for _, r := range records {
-		if _, ok := data[r[0]]; !ok {
-			v, _ := strconv.ParseFloat(r[1], 64)
-			data[r[0]] = DraftCard{r[0], v}
-		}
-	}
-
-	records = getData("data/Set5DraftTierSummary.csv")
-	for _, r := range records {
-		if _, ok := data[r[0]]; !ok {
-			v, _ := strconv.ParseFloat(r[1], 64)
-			data[r[0]] = DraftCard{r[0], v}
-		}
-	}
-
-	records = getData("data/Set4DraftTierSummary.csv")
-	for _, r := range records {
-		if _, ok := data[r[0]]; !ok {
-			v, _ := strconv.ParseFloat(r[1], 64)
-			data[r[0]] = DraftCard{r[0], v}
-		}
-	}
-
-	records = getData("data/Set3DraftTierSummary.csv")
-	for _, r := range records {
-		if _, ok := data[r[0]]; !ok {
-			v, _ := strconv.ParseFloat(r[1], 64)
-			data[r[0]] = DraftCard{r[0], v}
-		}
-	}
-
-	records = getData("data/InfluenceGivers.csv")
-	for _, r := range records {
-		if _, ok := data[r[0]]; !ok {
-			v, _ := strconv.ParseFloat(r[1], 64)
-			data[r[0]] = DraftCard{r[0], v}
+	for _, v := range files {
+		records := getData(v)
+		for _, r := range records {
+			if _, ok := data[r[0]]; !ok {
+				v, _ := strconv.ParseFloat(r[1], 64)
+				data[r[0]] = DraftCard{r[0], v}
+			}
 		}
 	}
 
